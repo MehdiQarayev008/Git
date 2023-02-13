@@ -1,0 +1,18 @@
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\bin\Debug\net6.0-windows\Market App.exe.exe
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\bin\Debug\net6.0-windows\Market App.exe.deps.json
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\bin\Debug\net6.0-windows\Market App.exe.runtimeconfig.json
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\bin\Debug\net6.0-windows\Market App.exe.dll
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\bin\Debug\net6.0-windows\Market App.exe.pdb
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\obj\Debug\net6.0-windows\Market App.exe.csproj.AssemblyReference.cache
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\obj\Debug\net6.0-windows\Market_App.exe.Form1.resources
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\obj\Debug\net6.0-windows\Market_App.exe.Properties.Resources.resources
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\obj\Debug\net6.0-windows\Market App.exe.csproj.GenerateResource.cache
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\obj\Debug\net6.0-windows\Market App.exe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\obj\Debug\net6.0-windows\Market App.exe.AssemblyInfoInputs.cache
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\obj\Debug\net6.0-windows\Market App.exe.AssemblyInfo.cs
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\obj\Debug\net6.0-windows\Market App.exe.csproj.CoreCompileInputs.cache
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\obj\Debug\net6.0-windows\Market App.exe.dll
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\obj\Debug\net6.0-windows\refint\Market App.exe.dll
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\obj\Debug\net6.0-windows\Market App.exe.pdb
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\obj\Debug\net6.0-windows\Market App.exe.genruntimeconfig.cache
+C:\Users\User\C# 2-ci modul 09.01.2023\Market App.exe\Market App.exe\obj\Debug\net6.0-windows\ref\Market App.exe.dll
